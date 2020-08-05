@@ -52,7 +52,6 @@
 
     ?>
   </head>
-  
   <body>
     <?php
       error_reporting(E_ERROR); /* Argumentar si se sube a produccion*/
